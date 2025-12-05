@@ -1,4 +1,4 @@
-🖼️ Image Scraping from Google Images
+**🖼️ Image Scraping from Google Images**
 
 A Python-based project to automatically scrape and download images from Google Images using Selenium and BeautifulSoup.
 
